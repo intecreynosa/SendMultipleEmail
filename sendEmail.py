@@ -58,7 +58,7 @@ def seleccionar_archivo():
 
 # Crear la ventana principal
 root = tk.Tk()
-root.title("Envio de Correos con Gmail")
+root.title("Envio de Correos")
 
 # Variables
 usuario_var = tk.StringVar()
